@@ -13,6 +13,4 @@ tags: ["news", "sports"]
 
 This is a test about [hockey][https://www.nhl.com/] on my Hugo site 
 
-{{< qr >}}
-https://gohugo.io
-{{< /qr >}}
+{{< qr >}} https://gohugo.io {{< /qr >}}
