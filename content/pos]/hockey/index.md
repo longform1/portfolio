@@ -8,7 +8,7 @@ license:
 hidden: false
 comments: true
 draft: false
-tags: ["news"],["sports"]
+tags: ["news", "sports"]
 ---
 
 This is a test about [hockey][https://www.nhl.com/] on my Hugo site 
